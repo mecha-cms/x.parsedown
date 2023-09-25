@@ -1,0 +1,8 @@
+{
+  "description": "Converts Markdown syntax to HTML using Parsedown.",
+  "license": "GPL-3.0-or-later",
+  "name": "mecha-cms/x.parsedown",
+  "require": {
+    "mecha-cms/x.page": "^3.0.0"
+  }
+}
