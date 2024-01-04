@@ -6,6 +6,10 @@ color: '#0f709d'
 author: Taufik Nurrohman
 type: Markdown
 version: 1.0.0
+
+alert:
+  stale:
+  - 'This extension is obsolete.'
 ...
 
 Markdown is two things: a plain text markup syntax, and a software tool that converts plain text markup to HTML for
